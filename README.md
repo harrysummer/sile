@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/simoncozens/sile.svg?branch=master)](https://travis-ci.org/simoncozens/sile)
+[![Build Status](https://xiarui.visualstudio.com/personal/_apis/build/status/SILE?branchName=win32)](https://xiarui.visualstudio.com/personal/_build/latest?definitionId=1&branchName=win32)
 [![Coverage Status](https://coveralls.io/repos/simoncozens/sile/badge.svg?branch=master&service=github)](https://coveralls.io/github/simoncozens/sile?branch=master) [![Join the chat at https://gitter.im/simoncozens/sile](https://badges.gitter.im/simoncozens/sile.svg)](https://gitter.im/simoncozens/sile?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## What is SILE?
